@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**HilaryOkello/HilaryOkello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Hilary Okello
 
-Here are some ideas to get you started:
+A passionate full-stack developer with 1+ years of experience building secure and scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills Highlights:**
+
+* 💻 Proficient in Go, JavaScript, PHP, HTML5, and CSS.
+* ✨ Frameworks: React, Gin (Go), Bootstrap, Tailwind CSS, Yii2.
+* 🔧 Backend: API design, authentication (OAuth, JWT, Sessions), databases (MySQL, PostgreSQL, Sqlite3), ORM (GORM).]
+* 🎨 Frontend/UX/UI: Responsive design, accessibility, visually appealing interfaces, and Figma.
+* ☁️ DevOps: Docker, GitHub Actions.
+* 🤝 Version Control: Git, code reviews.
+
+I'm dedicated to crafting clean, user-friendly experiences and contributing to impactful projects.
+
+Let's connect!
