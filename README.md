@@ -1,17 +1,28 @@
+# Hi, I’m Hilary Okello 👋
 
-### Hi there 👋, I'm Hilary Okello
+**Fullstack Developer | Problem Solver**
 
-A passionate full-stack developer with 1+ years of experience building secure and scalable applications.
+---
 
-**Skills Highlights:**
+## About Me
+I enjoy building reliable systems and intuitive user experiences. My work spans from API design and database modeling to frontend interfaces, with a focus on performance, scalability, and clean code.
 
-* 💻 Proficient in Go, JavaScript, PHP, HTML5, and CSS.
-* ✨ Frameworks: React, Gin (Go), Bootstrap, Tailwind CSS, Yii2.
-* 🔧 Backend: API design, authentication (OAuth, JWT, Sessions), databases (MySQL, PostgreSQL, Sqlite3), ORM (GORM).]
-* 🎨 Frontend/UX/UI: Responsive design, accessibility, visually appealing interfaces, and Figma.
-* ☁️ DevOps: Docker, GitHub Actions.
-* 🤝 Version Control: Git, code reviews.
+---
 
-I'm dedicated to crafting clean, user-friendly experiences and contributing to impactful projects.
+## Tech Stack
+- **Lannguages**: Go, TypeScript, Ruby, C
+- **Frameworks**: Nextjs, Ruby on Rails, Gin
+- **Databases**: PostgreSQL, MySQL, SQLite3, GORM, Prisma 
+- **Frontend**: React, Tailwind CSS  
+- **Other Tools**: Docker, GitHub Actions, OAuth, JWT, Figma
 
-Let's connect!
+---
+
+## Connect
+- Portfolio: [portfolio-7eww.onrender.com](https://portfolio-7eww.onrender.com)  
+- LinkedIn: [in/hilary-okello-a401401](https://www.linkedin.com/in/hilary-okello-a401401)  
+- Twitter/X: [@HilaryOnyango](https://x.com/HilaryOnyango)  
+
+---
+
+*"Living for the highs of coding."*
