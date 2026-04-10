@@ -1,27 +1,33 @@
-# Hi, I’m Hilary Okello 👋
+# Hi, I'm Hilary Okello
 
-**Fullstack Developer | Problem Solver**
+**Backend Developer | AI/ML Specialist**
 
 ---
 
 ## About Me
-I enjoy building reliable systems and intuitive user experiences. My work spans from API design and database modeling to frontend interfaces, with a focus on performance, scalability, and clean code.
+
+Backend developer with 2+ years building scalable web applications and AI/ML systems. I specialize in machine learning pipelines, few-shot learning, and high-performance production APIs — with a consistent track record of delivering quality work on time.
+
+Currently at Zone 01 Kisumu, working as a Backend Developer (AI/ML) on Berrijam AI and as a Full Stack Developer on BongoHub, a production social platform.
+
+Passionate about democratizing AI through education and mentorship.
 
 ---
 
 ## Tech Stack
-- **Lannguages**: Go, TypeScript, Ruby, C
-- **Frameworks**: Nextjs, Ruby on Rails, Gin
-- **Databases**: PostgreSQL, MySQL, SQLite3, GORM, Prisma 
-- **Frontend**: React, Tailwind CSS  
-- **Other Tools**: Docker, GitHub Actions, OAuth, JWT, Figma
+
+- **Languages**: Python, TypeScript, Go, Rub
+- **AI / ML**: FastAPI, Few-Shot Learning, Computer Vision, ML Pipelines, Vision Transformers (ViT), CLIP
+- **Backend**: REST API Design, OpenAPI, JWT / OAuth, PostgreSQL, SQLite, Ruby on Rails, Docker, RSpec
+- **Frontend**: React, Inertia.js, TailwindCSS, shadcn/ui, nicegui
 
 ---
 
 ## Connect
-- Portfolio: [portfolio-7eww.onrender.com](https://portfolio-7eww.onrender.com)  
-- LinkedIn: [in/hilary-okello-a401401](https://www.linkedin.com/in/hilary-okello-a401401)  
-- Twitter/X: [@HilaryOnyango](https://x.com/HilaryOnyango)  
+
+- Portfolio: [hilary-okello.vercel.app](https://hilary-okello.vercel.app)
+- LinkedIn: [linkedin.com/in/hilary-okello-a40140172](https://www.linkedin.com/in/hilary-okello-a40140172)
+- Twitter/X: [@HilaryOnyango](https://x.com/HilaryOnyango)
 
 ---
 
