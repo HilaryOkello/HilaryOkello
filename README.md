@@ -16,9 +16,9 @@ Passionate about democratizing AI through education and mentorship.
 
 ## Tech Stack
 
-- **Languages**: Python, TypeScript, Go, Rub
+- **Languages**: Python, Go, TypeScript, Ruby
 - **AI / ML**: FastAPI, Few-Shot Learning, Computer Vision, ML Pipelines, Vision Transformers (ViT), CLIP
-- **Backend**: REST API Design, OpenAPI, JWT / OAuth, PostgreSQL, SQLite, Ruby on Rails, Docker, RSpec
+- **Backend**: REST API Design, OpenAPI, JWT / OAuth, PostgreSQL, SQLite, NextJS, Ruby on Rails, Docker, RSpec
 - **Frontend**: React, Inertia.js, TailwindCSS, shadcn/ui, nicegui
 
 ---
